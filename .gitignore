@@ -1,4 +1,5 @@
-.DS_Store
-.idea
+# default
 /shelf/
 /workspace.xml
+.DS_Store
+.idea
